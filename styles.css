@@ -70,8 +70,8 @@ img.my-picture {
   /*max-width: 100%;*/
   width: 8rem;
   height: 8rem;
-  border: 2px solid white;
-  border-radius: 50%;
+  border: 1px solid white;
+  border-radius: 5%;
 }
 
 .iama {
